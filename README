@@ -1,0 +1,16 @@
+wgetnity (anteriormente Zenity Downloader) es un sencillo fronted para wget desarrollado en shell script Bash y la librería Zenity, así que funciona bien en cualquier distribución Gnu/Linux con Gnome o que tenga esta librería.
+
+Para utilizarlo le damos permiso de ejecución. (chmod +x wgetnity.sh).
+
+La idea original es de Isabella Hizzlechone, a la cual se realizaron algunas mejoras adicionales y a futuro una integración con KDE.
+
+Para más información en:
+http://nx86.co.cc/
+http://boards.420chan.org/prog/res/13467.php
+
+wgetnity está licenciado bajo la licencia GPL V.2
+Screenshots:
+http://www.flickr.com/search/?q=wgetnity&f=hp
+
+Copyright (C) 2011 Jorge Brunal a.k.a. Diniremix
+
